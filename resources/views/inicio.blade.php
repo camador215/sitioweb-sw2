@@ -606,5 +606,13 @@
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+        <df-messenger
+        intent="WELCOME"
+        chat-title="botcovid"
+        agent-id="7ede9e27-5fe3-417c-9ae8-ea9bac44b23e"
+        language-code="es"
+        ></df-messenger>
     </body>
+
 </html>

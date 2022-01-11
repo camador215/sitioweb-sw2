@@ -246,18 +246,18 @@
         <section class="page-section bg-light" id="team">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">EQUIPO DE DESARROLLO</h2>
+                    <h3 class="section-subheading text-muted">Integrantes del Equipo que hizo posible este proyecto.</h3>
                 </div>
-                <div class="row">
+                <div class="row" class="center-block">   
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
                             <h4>Carlos Alberto Amador</h4>
                             <p class="text-muted">Auxiliar de de Sistema</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://twitter.com/camador2151'"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://www.facebook.com/betico79495600/'"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://www.linkedin.com/in/carlos-alberto-alberto-bb9169144/'"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -265,9 +265,9 @@
                             <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
                             <h4>Bruno Rodriguez Vaca</h4>
                             <p class="text-muted">Ing. Desarrollador de Aplicaciones Móviles</p>
-                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://www.facebook.com'"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://www.facebook.com'"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://www.facebook.com'"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://twitter.com/BrunoRo16055680'"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://www.facebook.com/bruno.rodriguez.90813'"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" onclick="location.href='https://www.linkedin.com/in/bruno-rv/'"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                     <!-- <div class="col-lg-4">

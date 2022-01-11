@@ -508,7 +508,7 @@
         <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
         <df-messenger
         intent="WELCOME"
-        chat-title="botcovid"
+        chat-title="Agente 24/7"
         chat-icon = "https://www.anclaflex.com.ar/images/iconos/home/icono_1.png"
         agent-id="7ede9e27-5fe3-417c-9ae8-ea9bac44b23e"
         language-code="es"

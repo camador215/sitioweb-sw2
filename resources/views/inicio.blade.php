@@ -29,6 +29,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#services">Servicio</a></li> 
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portafolio</a></li> 
                         <li class="nav-item"><a class="nav-link" href="#about">Acerca</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">Equipo</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>

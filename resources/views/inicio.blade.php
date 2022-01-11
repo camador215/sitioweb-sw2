@@ -29,7 +29,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#services">Servicio</a></li> 
-                        <li class="nav-item"><a class="nav-link" onclick="location.href='https://drive.google.com/file/d/15SJoU325YbEfJ5pNglY5VxIKDIy-vOyw/view?usp=sharing'">Descargar APK</a></li> 
+                        <li class="nav-item"><a class="nav-link" href="#portfolio" onclick="location.href='https://drive.google.com/file/d/15SJoU325YbEfJ5pNglY5VxIKDIy-vOyw/view?usp=sharing'">Descargar APK</a></li> 
                         <li class="nav-item"><a class="nav-link" href="#about">Acerca</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">Equipo</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
